@@ -1,0 +1,19 @@
+{
+  "name": "mediamelon-js-react-native-sdk",
+  "version": "1.1.0",
+  "description": "MediaMelon JS React Native QoE SDK",
+  "main": "mmsmartstreaming_reactnative.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MediamelonSDK/mm-js-sdk-react-native.git"
+  },
+  "author": "mediamelon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MediamelonSDK/mm-js-sdk-react-native/issues"
+  },
+  "homepage": "https://github.com/MediamelonSDK/mm-js-sdk-react-native#readme"
+}
