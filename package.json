@@ -1,6 +1,6 @@
 {
   "name": "mediamelon-js-react-native-sdk",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "MediaMelon JS React Native QoE SDK",
   "main": "mmsmartstreaming_reactnative.min.js",
   "scripts": {
