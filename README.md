@@ -12,13 +12,13 @@ In your React Native app entry point (e.g., `App.js`):
 ### Using NPM Package
 
 ```js
-import MMReactNativeVideoSDK from 'mediamelon-js-react-native-sdk';
+import {MMReactNativeVideoSDK} from 'mediamelon-js-react-native-sdk';
 ```
 
 ### Using Local Minified JS File
 
 ```js
-import MMReactNativeVideoSDK from './mmsmartstreaming_reactnative.min.js';
+import {MMReactNativeVideoSDK} from './mmsmartstreaming_reactnative.min.js';
 ```
 
 ---
